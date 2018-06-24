@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ho-Business-Order-OrderApplyServcie/Ho-Business-Order-OrderApplyServcie.iml" filepath="$PROJECT_DIR$/Ho-Business-Order-OrderApplyServcie/Ho-Business-Order-OrderApplyServcie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ho-Business-Order-PriceRatingService/Ho-Business-Order-OrderApplyService.iml" filepath="$PROJECT_DIR$/Ho-Business-Order-PriceRatingService/Ho-Business-Order-OrderApplyService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ho-Business-Order-PriceRatingService/Ho-Business-Order-PriceRatingService.iml" filepath="$PROJECT_DIR$/Ho-Business-Order-PriceRatingService/Ho-Business-Order-PriceRatingService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ho-Business-User-UserLoginService/Ho-Business-User-UserLoginService.iml" filepath="$PROJECT_DIR$/Ho-Business-User-UserLoginService/Ho-Business-User-UserLoginService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ho-Business-User-UserRegisterService/Ho-Business-User-UserRegisterService.iml" filepath="$PROJECT_DIR$/Ho-Business-User-UserRegisterService/Ho-Business-User-UserRegisterService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ho-Framework-EurekaServer/Ho-Framework-EurekaServer.iml" filepath="$PROJECT_DIR$/Ho-Framework-EurekaServer/Ho-Framework-EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ho-Framework-MessageServer/Ho-Framework-MessageServer.iml" filepath="$PROJECT_DIR$/Ho-Framework-MessageServer/Ho-Framework-MessageServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ho-Framework-ZipkinServer/Ho-Framework-ZipkinServer.iml" filepath="$PROJECT_DIR$/Ho-Framework-ZipkinServer/Ho-Framework-ZipkinServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ho-Framework-ZuulServer/Ho-Framework-ZuulServer.iml" filepath="$PROJECT_DIR$/Ho-Framework-ZuulServer/Ho-Framework-ZuulServer.iml" />
+    </modules>
+  </component>
+</project>

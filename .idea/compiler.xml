@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Ho-Business-Order-OrderApplyServcie" />
+        <module name="Ho-Business-Order-OrderApplyService" />
+        <module name="Ho-Business-Order-PriceRatingService" />
+        <module name="Ho-Business-User-UserLoginService" />
+        <module name="Ho-Business-User-UserRegisterService" />
+        <module name="Ho-Framework-EurekaServer" />
+        <module name="Ho-Framework-MessageServer" />
+        <module name="Ho-Framework-ZipkinServer" />
+        <module name="Ho-Framework-ZuulServer" />
+        <module name="Ho.Business.Order-OrderApplyService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Ho-Business-Order-OrderApplyServcie" target="1.8" />
+      <module name="Ho-Business-Order-OrderApplyService" target="1.8" />
+      <module name="Ho-Business-Order-PriceRatingService" target="1.8" />
+      <module name="Ho-Business-User-UserLoginService" target="1.8" />
+      <module name="Ho-Business-User-UserRegisterService" target="1.8" />
+      <module name="Ho-Framework-EurekaServer" target="1.8" />
+      <module name="Ho-Framework-MessageServer" target="1.8" />
+      <module name="Ho-Framework-ZipkinServer" target="1.8" />
+      <module name="Ho-Framework-ZuulServer" target="1.8" />
+      <module name="Ho-Framework.EurekaServer" target="1.8" />
+      <module name="Ho.Business.Flight.Oder.CreateOrderService" target="1.8" />
+      <module name="Ho.Business.Order-OrderApplyService" target="1.8" />
+      <module name="Ho.Framework.EurekaServer" target="1.8" />
+      <module name="Ho.Framework.Service.EurekaServer" target="1.8" />
+      <module name="userregister" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

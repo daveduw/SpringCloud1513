@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Ho-Business-Order-OrderApplyServcie" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ho-Business-Order-PriceRatingService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ho-Business-User-UserLoginService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ho-Business-User-UserRegisterService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ho-Framework-EurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ho-Framework-EurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ho-Framework-MessageServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ho-Framework-ZipkinServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ho-Framework-ZipkinServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ho-Framework-ZuulServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/userregister" charset="UTF-8" />
+  </component>
+</project>
